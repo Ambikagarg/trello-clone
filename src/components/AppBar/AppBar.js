@@ -3,7 +3,7 @@ import './AppBar.scss';
 const AppBar = () => {
     return (
         <>
-        <nav className="navbar-app">App bar</nav>
+        <nav className="navbar-app">Trello App</nav>
         </>
     )
 }
